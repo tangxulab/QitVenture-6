@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>CustomSwitchButton.qml</file>
+        <file>QmlProgress.qml</file>
+        <file>QmlCanvasWaveProgress.qml</file>
+        <file>ToggleButtonWindow.qml</file>
+        <file>QmlToggleButton.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "sample_ms": "304",
+        "sample_name": "可卡因"
+    },
+    {
+        "id": 2,
+        "sample_ms": "150",
+        "sample_name": "甲基苯丙胺"
+    },
+    {
+        "id": 3,
+        "sample_ms": "609.68",
+        "sample_name": "利血平"
+    },
+    {
+        "id": 4,
+        "sample_ms": "195.19",
+        "sample_name": "校准液"
+    },
+    {
+        "id": 5,
+        "sample_ms": "360",
+        "sample_name": "恩诺"
+    }
+]

@@ -1,0 +1,1102 @@
+[
+    {
+        "obejct_formula": "C22H28N2O",
+        "obejct_name": "芬太尼",
+        "object_precursor_ion": "337.2",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "35"
+            },
+            {
+                "sub_ion_energy": "51"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "188.3"
+            },
+            {
+                "sub_ion_ms": "104.9"
+            }
+        ],
+        "photo": "/photo/20210722100403.PNG"
+    },
+    {
+        "obejct_formula": "C15H22N2O",
+        "obejct_name": "去甲基芬太尼",
+        "object_precursor_ion": "233.1",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "29"
+            },
+            {
+                "sub_ion_energy": "44"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "84"
+            },
+            {
+                "sub_ion_ms": "55.2"
+            }
+        ],
+        "photo": "/photo/20210722100915.PNG"
+    },
+    {
+        "obejct_formula": "C21H32N6O3",
+        "obejct_name": "阿芬太尼",
+        "object_precursor_ion": "417.3",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "25"
+            },
+            {
+                "sub_ion_energy": "35"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "268.3"
+            },
+            {
+                "sub_ion_ms": "197.1"
+            }
+        ],
+        "photo": "/photo/20210722101317.PNG"
+    },
+    {
+        "obejct_formula": "C21H26N2O",
+        "obejct_name": "乙酰芬太尼",
+        "object_precursor_ion": "323.2",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "35"
+            },
+            {
+                "sub_ion_energy": "50"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "188.1"
+            },
+            {
+                "sub_ion_ms": "105.0"
+            }
+        ],
+        "photo": "/photo/20210722101522.PNG"
+    },
+    {
+        "obejct_formula": "C13H19CIN2O",
+        "obejct_name": "乙酰去甲基芬太尼",
+        "object_precursor_ion": "219.3",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "24"
+            },
+            {
+                "sub_ion_energy": "40"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "84.0"
+            },
+            {
+                "sub_ion_ms": "56.0"
+            }
+        ],
+        "photo": "/photo/20210722101728.PNG"
+    },
+    {
+        "obejct_formula": "C19H24N2",
+        "obejct_name": "去丙烯酰芬太尼",
+        "object_precursor_ion": "281.1",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "23"
+            },
+            {
+                "sub_ion_energy": "40"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "188.1"
+            },
+            {
+                "sub_ion_ms": "105.1"
+            }
+        ],
+        "photo": "/photo/20210722101938.PNG"
+    },
+    {
+        "obejct_formula": "C22H26N2O",
+        "obejct_name": "丙烯酰芬太尼",
+        "object_precursor_ion": "335.5",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "29"
+            },
+            {
+                "sub_ion_energy": "41"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "188.2"
+            },
+            {
+                "sub_ion_ms": "105.0"
+            }
+        ],
+        "photo": "/photo/20210722102459.PNG"
+    },
+    {
+        "obejct_formula": "C23H30N2O",
+        "obejct_name": "丁酰芬太尼",
+        "object_precursor_ion": "351.3",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "29"
+            },
+            {
+                "sub_ion_energy": "45"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "188.1"
+            },
+            {
+                "sub_ion_ms": "105.2"
+            }
+        ],
+        "photo": "/photo/20210722102639.PNG"
+    },
+    {
+        "obejct_formula": "C23H30N2O",
+        "obejct_name": "异丁酰芬太尼",
+        "object_precursor_ion": "351.1",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "35"
+            },
+            {
+                "sub_ion_energy": "60"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "188.0"
+            },
+            {
+                "sub_ion_ms": "105.0"
+            }
+        ],
+        "photo": "/photo/20210722102926.PNG"
+    },
+    {
+        "obejct_formula": "C23H29FN2O",
+        "obejct_name": "对-氟丁酰芬太尼",
+        "object_precursor_ion": "369.2",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "30"
+            },
+            {
+                "sub_ion_energy": "50"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "188.2"
+            },
+            {
+                "sub_ion_ms": "104.9"
+            }
+        ],
+        "photo": "/photo/20210722103056.PNG"
+    },
+    {
+        "obejct_formula": "C23H29FN2O",
+        "obejct_name": "对-氟异丁酰芬太尼",
+        "object_precursor_ion": "369.3",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "35"
+            },
+            {
+                "sub_ion_energy": "60"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "188.0"
+            },
+            {
+                "sub_ion_ms": "105.0"
+            }
+        ],
+        "photo": "/photo/20210722103230.PNG"
+    },
+    {
+        "obejct_formula": "C22H27FN2O",
+        "obejct_name": "对/邻-氟芬太尼",
+        "object_precursor_ion": "355.2",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "35"
+            },
+            {
+                "sub_ion_energy": "50"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "188.2"
+            },
+            {
+                "sub_ion_ms": "104.9"
+            }
+        ],
+        "photo": "/photo/20210722103418.PNG"
+    },
+    {
+        "obejct_formula": "C21H28N2OS",
+        "obejct_name": "β一羟基硫代芬太尼",
+        "object_precursor_ion": "359.3",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "34"
+            },
+            {
+                "sub_ion_energy": "32"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "191.9"
+            },
+            {
+                "sub_ion_ms": "146.1"
+            }
+        ],
+        "photo": "/photo/20210722103559.PNG"
+    },
+    {
+        "obejct_formula": "C23H30N2O",
+        "obejct_name": "顺-3-甲基芬太尼",
+        "object_precursor_ion": "351.2",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "32"
+            },
+            {
+                "sub_ion_energy": "52"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "202.2"
+            },
+            {
+                "sub_ion_ms": "105.2"
+            }
+        ],
+        "photo": "/photo/20210722103825.PNG"
+    },
+    {
+        "obejct_formula": "C24H26N2O2",
+        "obejct_name": "呋喃芬太尼",
+        "object_precursor_ion": "375.3",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "27"
+            },
+            {
+                "sub_ion_energy": "50"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "188.1"
+            },
+            {
+                "sub_ion_ms": "105.2"
+            }
+        ],
+        "photo": "/photo/20210722104148.PNG"
+    },
+    {
+        "obejct_formula": "C22H27FN2O2",
+        "obejct_name": "奥芬太尼",
+        "object_precursor_ion": "371.2",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "32"
+            },
+            {
+                "sub_ion_energy": "56"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "188.2"
+            },
+            {
+                "sub_ion_ms": "105.1"
+            }
+        ],
+        "photo": "/photo/20210722104350.PNG"
+    },
+    {
+        "obejct_formula": "C22H30N2O2S",
+        "obejct_name": "舒芬太尼",
+        "object_precursor_ion": "387.3",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "26"
+            },
+            {
+                "sub_ion_energy": "25"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "238.2"
+            },
+            {
+                "sub_ion_ms": "355.3"
+            }
+        ],
+        "photo": "/photo/20210722104617.PNG"
+    },
+    {
+        "obejct_formula": "C20H28N2O5",
+        "obejct_name": "瑞芬太尼",
+        "object_precursor_ion": "377.3",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "26"
+            },
+            {
+                "sub_ion_energy": "40"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "228.3"
+            },
+            {
+                "sub_ion_ms": "112.9"
+            }
+        ],
+        "photo": "/photo/20210722104851.PNG"
+    },
+    {
+        "obejct_formula": "C20H29CIN2O5",
+        "obejct_name": "瑞芬太尼酸",
+        "object_precursor_ion": "363.3",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "30"
+            },
+            {
+                "sub_ion_energy": "41"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "247.3"
+            },
+            {
+                "sub_ion_ms": "112.9"
+            }
+        ],
+        "photo": "/photo/20210722105037.PNG"
+    },
+    {
+        "obejct_formula": "C24H30N2O3",
+        "obejct_name": "卡芬太尼",
+        "object_precursor_ion": "395.1",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "26"
+            },
+            {
+                "sub_ion_energy": "30"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "335.1"
+            },
+            {
+                "sub_ion_ms": "246.1"
+            }
+        ],
+        "photo": "/photo/20210722105240.PNG"
+    },
+    {
+        "obejct_formula": "C16H22N2O3",
+        "obejct_name": "去甲基卡芬太尼",
+        "object_precursor_ion": "291.0",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "23"
+            },
+            {
+                "sub_ion_energy": "40"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "142.2"
+            },
+            {
+                "sub_ion_ms": "113.3"
+            }
+        ],
+        "photo": "/photo/20210722105501.PNG"
+    },
+    {
+        "obejct_formula": "C24H32N2O",
+        "obejct_name": "戊酰芬太尼",
+        "object_precursor_ion": "365.4",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "34"
+            },
+            {
+                "sub_ion_energy": "60"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "188.3"
+            },
+            {
+                "sub_ion_ms": "105.2"
+            }
+        ],
+        "photo": "/photo/20210722105713.PNG"
+    },
+    {
+        "obejct_formula": "C22H28N2O2",
+        "obejct_name": "甲氧乙酰芬太尼",
+        "object_precursor_ion": "353.2",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "30"
+            },
+            {
+                "sub_ion_energy": "55"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "188.2"
+            },
+            {
+                "sub_ion_ms": "105.2"
+            }
+        ],
+        "photo": "/photo/20210722105912.PNG"
+    },
+    {
+        "obejct_formula": "C23H30N2O2",
+        "obejct_name": "β -羟基-3-甲基芬太尼",
+        "object_precursor_ion": "367.2",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "34"
+            },
+            {
+                "sub_ion_energy": "31"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "200.1"
+            },
+            {
+                "sub_ion_ms": "218.1"
+            }
+        ],
+        "photo": "/photo/20210722110326.PNG"
+    },
+    {
+        "obejct_formula": "C22H28N2O2",
+        "obejct_name": "β -羟基-芬太尼",
+        "object_precursor_ion": "353.4",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "30"
+            },
+            {
+                "sub_ion_energy": "33"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "204.3"
+            },
+            {
+                "sub_ion_ms": "186.0"
+            }
+        ],
+        "photo": "/photo/20210722110504.PNG"
+    },
+    {
+        "obejct_formula": "C23H30N2O",
+        "obejct_name": "反-3-甲基芬太尼",
+        "object_precursor_ion": "351.3",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "31"
+            },
+            {
+                "sub_ion_energy": "55"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "202.2"
+            },
+            {
+                "sub_ion_ms": "105.1"
+            }
+        ],
+        "photo": "/photo/20210722110637.PNG"
+    },
+    {
+        "obejct_formula": "C23H30N2O",
+        "obejct_name": "α-甲基芬太尼",
+        "object_precursor_ion": "351.3",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "30"
+            },
+            {
+                "sub_ion_energy": "35"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "202.0"
+            },
+            {
+                "sub_ion_ms": "119.2"
+            }
+        ],
+        "photo": "/photo/20210722110850.PNG"
+    },
+    {
+        "obejct_formula": "C21H28N2OS",
+        "obejct_name": "3-甲基硫代芬太尼",
+        "object_precursor_ion": "357.2",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "30"
+            },
+            {
+                "sub_ion_energy": "50"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "208.0"
+            },
+            {
+                "sub_ion_ms": "111.0"
+            }
+        ],
+        "photo": "/photo/20210722111048.PNG"
+    },
+    {
+        "obejct_formula": "C20H26N2OS",
+        "obejct_name": "硫代芬太尼",
+        "object_precursor_ion": "343.0",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "30"
+            },
+            {
+                "sub_ion_energy": "50"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "194.0"
+            },
+            {
+                "sub_ion_ms": "111.0"
+            }
+        ],
+        "photo": "/photo/20210722111540.PNG"
+    },
+    {
+        "obejct_formula": "C24H30N2O2",
+        "obejct_name": "THF-F",
+        "object_precursor_ion": "379.3",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "32"
+            },
+            {
+                "sub_ion_energy": "60"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "188.2"
+            },
+            {
+                "sub_ion_ms": "105.1"
+            }
+        ],
+        "photo": "/photo/20210722111732.PNG"
+    },
+    {
+        "obejct_formula": "C22H23D5N2O",
+        "obejct_name": "Fentanyl-d5",
+        "object_precursor_ion": "342.1",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "35"
+            },
+            {
+                "sub_ion_energy": ""
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "105.2"
+            },
+            {
+                "sub_ion_ms": ""
+            }
+        ],
+        "photo": "/photo/20210722111923.PNG"
+    },
+    {
+        "obejct_formula": "C9H13N",
+        "obejct_name": "苯丙胺",
+        "object_precursor_ion": "136.1",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "12"
+            },
+            {
+                "sub_ion_energy": "26"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "119.1"
+            },
+            {
+                "sub_ion_ms": "91.1"
+            }
+        ],
+        "photo": "/photo/20210722112249.PNG"
+    },
+    {
+        "obejct_formula": "C10H15N",
+        "obejct_name": "甲基苯丙胺",
+        "object_precursor_ion": "150.1",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "15"
+            },
+            {
+                "sub_ion_energy": "30"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "119.1"
+            },
+            {
+                "sub_ion_ms": "91.1"
+            }
+        ],
+        "photo": "/photo/20210722112407.PNG"
+    },
+    {
+        "obejct_formula": "C3H4O2",
+        "obejct_name": "3,4-亚甲基二氧基苯丙胺",
+        "object_precursor_ion": "180.1",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "25"
+            },
+            {
+                "sub_ion_energy": "30"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "133.1"
+            },
+            {
+                "sub_ion_ms": "105.1"
+            }
+        ],
+        "photo": "/photo/20210722112530.PNG"
+    },
+    {
+        "obejct_formula": "C11H15NO2",
+        "obejct_name": "3,4-亚甲基二氧基甲基苯丙胺",
+        "object_precursor_ion": "194.2",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "18"
+            },
+            {
+                "sub_ion_energy": "34"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "163.2"
+            },
+            {
+                "sub_ion_ms": "105.1"
+            }
+        ],
+        "photo": "/photo/20210722112751.PNG"
+    },
+    {
+        "obejct_formula": "C10H13NO",
+        "obejct_name": "甲卡西酮",
+        "object_precursor_ion": "164.4",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "23"
+            },
+            {
+                "sub_ion_energy": "17"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "131.1"
+            },
+            {
+                "sub_ion_ms": "146.2"
+            }
+        ],
+        "photo": "/photo/20210722113025.PNG"
+    },
+    {
+        "obejct_formula": "C13H16CINO",
+        "obejct_name": "氯胺酮",
+        "object_precursor_ion": "238.1",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "40"
+            },
+            {
+                "sub_ion_energy": "21"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "125.1"
+            },
+            {
+                "sub_ion_ms": "207.1"
+            }
+        ],
+        "photo": "/photo/20210722130817.PNG"
+    },
+    {
+        "obejct_formula": "C12H15Cl2NO",
+        "obejct_name": "去甲氯胺酮",
+        "object_precursor_ion": "224.1",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "19"
+            },
+            {
+                "sub_ion_energy": "32"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "207.1"
+            },
+            {
+                "sub_ion_ms": "125.1"
+            }
+        ],
+        "photo": "/photo/20210722130942.PNG"
+    },
+    {
+        "obejct_formula": "C17H19NO3",
+        "obejct_name": "吗啡",
+        "object_precursor_ion": "286.1",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "36"
+            },
+            {
+                "sub_ion_energy": "55"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "201.1"
+            },
+            {
+                "sub_ion_ms": "165.3"
+            }
+        ],
+        "photo": "/photo/20210722131123.PNG"
+    },
+    {
+        "obejct_formula": "C21H24D3NO",
+        "obejct_name": "美沙酮",
+        "object_precursor_ion": "310.2",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "21"
+            },
+            {
+                "sub_ion_energy": "35"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "265.2"
+            },
+            {
+                "sub_ion_ms": "105.1"
+            }
+        ],
+        "photo": "/photo/20210722131254.PNG"
+    },
+    {
+        "obejct_formula": "C16H25NO2",
+        "obejct_name": "曲马多",
+        "object_precursor_ion": "264.2",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "37"
+            },
+            {
+                "sub_ion_energy": "16"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "58.0"
+            },
+            {
+                "sub_ion_ms": "246.2"
+            }
+        ],
+        "photo": "/photo/20210722131433.PNG"
+    },
+    {
+        "obejct_formula": "C21H30O2",
+        "obejct_name": "四氢大麻酚",
+        "object_precursor_ion": "315.2",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "30"
+            },
+            {
+                "sub_ion_energy": "45"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "193.2"
+            },
+            {
+                "sub_ion_ms": "123.0"
+            }
+        ],
+        "photo": "/photo/20210722131645.PNG"
+    },
+    {
+        "obejct_formula": "C17H21NO4",
+        "obejct_name": "可卡因",
+        "object_precursor_ion": "304.1",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "27"
+            },
+            {
+                "sub_ion_energy": "35"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "182.2"
+            },
+            {
+                "sub_ion_ms": "150.2"
+            }
+        ],
+        "photo": "/photo/20210722131812.PNG"
+    },
+    {
+        "obejct_formula": "C16H19NO4",
+        "obejct_name": "苯甲酰爱康宁",
+        "object_precursor_ion": "290.2",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "28"
+            },
+            {
+                "sub_ion_energy": "40"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "168.3"
+            },
+            {
+                "sub_ion_ms": "105.0"
+            }
+        ],
+        "photo": "/photo/20210722132102.PNG"
+    },
+    {
+        "obejct_formula": "C23H32CINO2",
+        "obejct_name": "SKF-525A",
+        "object_precursor_ion": "354.3",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "25"
+            },
+            {
+                "sub_ion_energy": "28"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "209.3"
+            },
+            {
+                "sub_ion_ms": "167.3"
+            }
+        ],
+        "photo": "/photo/20210722132249.PNG"
+    },
+    {
+        "obejct_formula": "C19H21NO4",
+        "obejct_name": "单乙酰吗啡",
+        "object_precursor_ion": "328.1",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "36"
+            },
+            {
+                "sub_ion_energy": "54"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "211.3"
+            },
+            {
+                "sub_ion_ms": "165.3"
+            }
+        ],
+        "photo": "/photo/20210722132425.PNG"
+    },
+    {
+        "obejct_formula": "C21H24CINO5",
+        "obejct_name": "海洛因",
+        "object_precursor_ion": "370.2",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "38"
+            },
+            {
+                "sub_ion_energy": "60"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "268.2"
+            },
+            {
+                "sub_ion_ms": "165.0"
+            }
+        ],
+        "photo": "/photo/20210722132552.PNG"
+    },
+    {
+        "obejct_formula": "C5H13NO2",
+        "obejct_name": "3,4-亚甲二氧基-N-乙基-苯丙胺",
+        "object_precursor_ion": "208.4",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "19"
+            },
+            {
+                "sub_ion_energy": "23"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "163.1"
+            },
+            {
+                "sub_ion_ms": "133.2"
+            }
+        ],
+        "photo": "/photo/20210722132713.PNG"
+    },
+    {
+        "obejct_formula": "C21H30O2",
+        "obejct_name": "大麻二酚",
+        "object_precursor_ion": "315.2",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "32"
+            },
+            {
+                "sub_ion_energy": "28"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "193.2"
+            },
+            {
+                "sub_ion_ms": "105.2"
+            }
+        ],
+        "photo": "/photo/20210722132841.PNG"
+    },
+    {
+        "obejct_formula": "C21H26O2",
+        "obejct_name": "大麻酚",
+        "object_precursor_ion": "311.2",
+        "object_sub_ion_energy": [
+            {
+                "sub_ion_energy": "29"
+            },
+            {
+                "sub_ion_energy": "23"
+            }
+        ],
+        "object_sub_ion_ms": [
+            {
+                "sub_ion_ms": "223.2"
+            },
+            {
+                "sub_ion_ms": "293.1"
+            }
+        ],
+        "photo": "/photo/20210722133309.PNG"
+    }
+]
